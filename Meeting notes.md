@@ -2,11 +2,11 @@
  ## Date of interview(06-09-2023) 
  ### Interviewers: 
 
-Wasiq
-Daud
-Raza
-Salma
-Aleem
+Wasiq 
+Daud 
+Raza 
+Salma 
+Aleem 
 
  # Candidate: 
 Muhammad Nafees 
