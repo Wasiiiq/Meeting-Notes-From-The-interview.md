@@ -1,6 +1,6 @@
- #Meeting notes 
- ##Date of interview(06-09-2023) 
- ###Interviewers: 
+ # Meeting notes 
+ ## Date of interview(06-09-2023) 
+ ### Interviewers: 
 
 Wasiq
 Daud
@@ -8,7 +8,7 @@ Raza
 Salma
 Aleem
 
- #Candidate: 
+ # Candidate: 
 Muhammad Nafees 
 Applied for:Full stack developer
 He was good at Soft Skills and Communication
