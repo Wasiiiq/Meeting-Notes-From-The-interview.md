@@ -11,6 +11,8 @@ Aleem
  # Candidate: 
 Muhammad Nafees 
 Applied for:Full stack developer
+
+
 He was good at Soft Skills and Communication
 The panel discussed the candidate's motivations for wanting to join the company.
 Nafees expressed a genuine interest in the company's mission and values.
